@@ -2,5 +2,5 @@
   "name": "mma-render",
   "private": true,
   "type": "module",
-  "dependencies": { "puppeteer-core": "^24.0.0" }
+  "dependencies": { "puppeteer-core": "^25.16.0" }
 }
