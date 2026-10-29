@@ -28,7 +28,7 @@ images so a deck's art matches).
 ## Install
 
 ```
-git clone https://github.com/cuppibla/creator-skills
+git clone https://github.com/gca-americas/creator-skills
 ./creator-skills/install.sh user
 ```
 
